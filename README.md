@@ -1,2 +1,2 @@
-# iotransitcore
-Client API for the IoTransit Core
+# iotransit-api
+Client API for the IoTransit Core/Agent
