@@ -82,7 +82,7 @@ To list registered event listeners:
 ```js
 console.log(ioTransit.eventNames());
 ```
-The following events are emitted:
+The following events are emitted by the module:
 * `'connection'`
 * `'connectionFailed'`
 * `'connectionError'`
