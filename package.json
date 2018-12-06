@@ -1,0 +1,26 @@
+{
+  "name": "iotransit-api",
+  "version": "0.3.0",
+  "description": "A simple node.js wrapper for the IoTransit Client API for Core and Agent applications",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://rgillan@github.com/nisient/iotransit-api.git"
+  },
+  "keywords": [
+    "iotransit",
+    "api"
+  ],
+  "author": "nisient pty. ltd.",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nisient/iotransit-api/issues"
+  },
+  "homepage": "https://github.com/nisient/iotransit-api#readme"
+}
