@@ -30,7 +30,8 @@ Default options:
 	controlPlaneOrigin: 'control',
 	autoReconnect: true,
 	reconnectionTimer: 5000,
-	secureWebSocket: false
+	secureWebSocket: false,
+	emitEventsAsCP: false
 }
 ```
 If changes to any of these default options are required, then you can pass an object to the constructor.  If an object is passed, it must contain the appletId key otherwise an error will be thrown.  The constructor options object need only contain the specific options that require changing, plus the appletId:
