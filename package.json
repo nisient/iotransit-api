@@ -1,6 +1,6 @@
 {
   "name": "iotransit-api",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "description": "A simple node.js wrapper for the IoTransit Client API for Core and Agent applications",
   "main": "index.js",
   "directories": {
@@ -26,5 +26,4 @@
   "dependencies": {
     "websocket": "^1.0.34"
   }
-
 }
